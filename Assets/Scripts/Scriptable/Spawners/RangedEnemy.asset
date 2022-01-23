@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bb8a043c9cc3864db5131d4b9cb0eae, type: 3}
+  m_Name: RangedEnemy
+  m_EditorClassIdentifier: 
+  itemToSpawn: {fileID: 1206515369577113283, guid: 205fbee037bf5d5469dd3cacf79389b1,
+    type: 3}
+  minSpawn: 1
+  maxSpawn: 3
